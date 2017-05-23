@@ -12,11 +12,11 @@
     </metadata>
   </prolog>
   <body>
-    <p><ph keyref="product"/> allows you to organize your XML-related files into projects. This
-      helps you manage and organize your files and also allows you to perform batch operations (such
-      as validation and transformation) over multiple files.<ph product="author developer editor">
-        You can also <xref href="sharing-projects.dita#sharing-projects">share your project settings
-          and transformation/validation scenarios</xref> with other users.</ph> Use the <xref
+    <p><ph keyref="product"/> allows you to organize your files into projects. This helps you manage
+      and organize your files and also allows you to perform batch operations (such as validation
+      and transformation) over multiple files.<ph product="author developer editor"> You can also
+          <xref href="sharing-projects.dita#sharing-projects">share your project settings and
+          transformation/validation scenarios</xref> with other users.</ph> Use the <xref
         href="using-the-project-view.dita#using-the-project-view"><uicontrol
           product="author developer editor">Project</uicontrol><uicontrol
           product="authorEclipse developerEclipse editorEclipse">Navigator</uicontrol> view</xref>
