@@ -51,7 +51,7 @@
           <image href="../img/sqf_Lang.png" id="image_wns_klz_hr" placement="inline"/>
         </fig>
       </p>
-      <p>The assertion message that generates the <term>Quick Fix</term> is added as the
+      <p>The assertion message that add generates the <term>Quick Fix</term> is added as the
           <codeph>description</codeph> of the problem to be fixed. The <codeph>title</codeph> is
         presented as the name of the <term>Quick Fix</term>. The content of the paragraphs
           (<codeph>p</codeph>) within the <codeph>description</codeph> element are presented in the
